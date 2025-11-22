@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "./static/css/main.d974c887.css",
+    "main.js": "./static/js/main.300aa2df.js",
+    "static/js/787.a938b602.chunk.js": "./static/js/787.a938b602.chunk.js",
+    "static/media/pexels-cottonbro-studio-8273630.jpg": "./static/media/pexels-cottonbro-studio-8273630.b8f73779e47dcec8d7da.jpg",
+    "static/media/pexels-tima-miroshnichenko-7991177.jpg": "./static/media/pexels-tima-miroshnichenko-7991177.60b7aa5ad3012349c59f.jpg",
+    "static/media/title-image-1.webp": "./static/media/title-image-1.eb5e2899315f131fed94.eb5e2899315f131fed94.webp",
+    "static/media/fa-solid-900.ttf": "./static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/fa-brands-400.ttf": "./static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "./static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "./static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "./static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/fa-regular-400.woff2": "./static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/fa-v4compatibility.ttf": "./static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "./static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "static/media/logo.svg": "./static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "./index.html",
+    "static/media/logo-dark.webp": "./static/media/logo-dark.5aab8137fe2130969ca6.webp",
+    "main.d974c887.css.map": "./static/css/main.d974c887.css.map",
+    "main.300aa2df.js.map": "./static/js/main.300aa2df.js.map",
+    "787.a938b602.chunk.js.map": "./static/js/787.a938b602.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d974c887.css",
+    "static/js/main.300aa2df.js"
+  ]
+}
